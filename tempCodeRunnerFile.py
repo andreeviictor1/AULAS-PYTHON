@@ -1,0 +1,1 @@
+print(next(lista_enumerada))
